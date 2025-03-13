@@ -6,3 +6,4 @@ edit for dev
 new add from dev
 after conflict
 test for conflict
+abcd
