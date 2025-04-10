@@ -8,3 +8,4 @@ after conflict
 test for conflict
 abcd
 efgh(main)
+test line for new
