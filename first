@@ -1,0 +1,7 @@
+git --version
+sudo apt-get install git
+git config --global user.name "dermingliu-code"
+git config --global user.email "dermingliu@gmail.com"
+#note
+git remote set-url origin git@github.com:dermingliu-code/git-test.git
+
