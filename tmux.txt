@@ -1,0 +1,5 @@
+panes (% " o direction space ! x)
+windows (c w n p number &)
+tmux ls
+tmux attach -t (session number)
+
