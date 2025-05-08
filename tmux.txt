@@ -2,4 +2,5 @@ panes (% " o direction space ! x)
 windows (c w n p number &)
 tmux ls
 tmux attach -t (session number)
-
+sessions ($ d s L ( ) )
+search (C-s f)
